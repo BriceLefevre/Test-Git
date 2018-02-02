@@ -1,2 +1,5 @@
 test des fonctionnalitées git
+<<<<<<< HEAD
 test de la branche developpement
+=======
+>>>>>>> master
